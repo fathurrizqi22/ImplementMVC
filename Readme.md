@@ -6,7 +6,9 @@ Merupakan sebuah simulasi dari penggunaan mobil yang diimplementasikan ke progra
 
 ### Tugas
 
-1. Gambar Class Diagram ![Class Diagram](https://user-images.githubusercontent.com/61857691/97330205-86ccae80-18aa-11eb-80c0-f01d58287ccc.jpg)
+1. Gambar Class Diagram 
+
+![Class Diagram](https://user-images.githubusercontent.com/61857691/97330205-86ccae80-18aa-11eb-80c0-f01d58287ccc.jpg)
 
 2. Kegunaan DoorController adalah memakai method dan logika dari class `Door.cs`  
 
